@@ -56,9 +56,9 @@ ion-icon:hover{color:hsl(300, 69%, 71%) ;}
     main{flex-direction: column;
     justify-content: center;
 padding: 10px 10px;}
-
-    section:nth-child(1) img{width: 350px;
-    height: 250px;
+    
+     main img{width: 400px;
+    height: 330px;
 margin-right: 0;}
 
     section:nth-child(2){text-align: center;}
